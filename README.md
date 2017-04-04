@@ -19,3 +19,5 @@ __SecurityHelper(Encrypt, Decrypt)__
 __StringHelper(for Base64, SecureString, Guid, Capitalize, Validation, Url Slug, To Json, From Json)__
 
 __WebHelper(for Context, Session, Url, Browser, Useragent, QueryString)__
+
+Source http://sefacan.net/dotnet-helper-library
