@@ -20,4 +20,4 @@ __StringHelper(for Base64, SecureString, Guid, Capitalize, Validation, Url Slug,
 
 __WebHelper(for Context, Session, Url, Browser, Useragent, QueryString)__
 
-Source http://sefacan.net/dotnet-helper-library
+Article http://sefacan.net/dotnet-helper-library
